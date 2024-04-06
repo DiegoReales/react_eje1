@@ -34,7 +34,8 @@
 }
 
 .card {
-  padding: 2em;
+  padding: 0rem !important;
+  margin: .5rem !important;
 }
 
 .read-the-docs {
